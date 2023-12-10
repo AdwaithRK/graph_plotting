@@ -1,0 +1,5 @@
+HT   Without_Trust_XY  trust_DyXY  ARK_DyXY
+1HT  34                32	   29
+2HT  34                31	   29
+3HT  35                33	   30
+4HT  38                34	   30

@@ -1,0 +1,5 @@
+HT   Without_Trust_XY  trust_DyXY  ARK_DyXY
+1HT  41249             4900        5363
+2HT  99395             24501       25938
+3HT  172570            51059       54398
+4HT  261287            85200       92488
